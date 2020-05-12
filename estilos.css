@@ -31,7 +31,7 @@ body {
   }
   
   a:hover {
-    text-decoration: ;
+    text-decoration: underline;
   }
   
   
@@ -42,5 +42,5 @@ body {
   }
   
   .site-subtitle {
-    font-style: italic;
+    
   }
